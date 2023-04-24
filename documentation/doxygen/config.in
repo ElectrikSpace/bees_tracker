@@ -1,0 +1,14 @@
+PROJECT_NAME = 'Bee Tracker'
+
+INPUT = ../implementation/Inc ../implementation/Src ../utils/
+
+OUTPUT_DIRECTORY = ../documentation/doxygen/doc
+
+GENERATE_HTML = YES
+
+HTML_OUTPUT = html/
+
+HTML_FILE_EXTENSION = .html
+
+
+
