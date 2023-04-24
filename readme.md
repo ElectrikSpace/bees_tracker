@@ -58,8 +58,6 @@ make doxygen
 ```
 The output will be generated in `documentation/doxygen/doc`
 
-![example_frame.jpg](example_frame.jpg)
-
 ## Bibliography 
 
 The solution implemented in this project is mainly inspired from the following papers:
@@ -72,3 +70,5 @@ The solution implemented in this project is mainly inspired from the following p
 - Baptiste Magnier, Eliyahou Gabbay, Faysal Bougamale, Behrang Moradi,  François Pfister, et al.. Multiple honey bees tracking and trajectory  modeling. *Multimodal Sensing and Artificial Intelligence: Technologies and Applications*, Jun 2019, Munich, France. pp.29, [⟨10.1117/12.2526120⟩](https://dx.doi.org/10.1117/12.2526120). [⟨hal-02187412⟩](https://hal.science/hal-02187412)
 
 This project has started as a freestyle exercise during the "Efficient parallel C++" lab course at [Karlsruher Institut für Technologie.](https://www.kit.edu/) I would like to thank in particular the supervisors of this course.
+
+![example_frame.jpg](example_frame.jpg)
