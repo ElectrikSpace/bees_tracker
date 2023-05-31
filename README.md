@@ -9,7 +9,7 @@ This project contains 2 targets:
 The example input data for both target can be downloaded and extracted using the dedicated script:
 ```
 cd data
-bash data/download_data.sh
+bash download_data.sh
 ```
 Please contact me if you can't download the file
 
